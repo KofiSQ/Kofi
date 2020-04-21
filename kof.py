@@ -5,7 +5,7 @@ import time
 indentsize = 0 # how many spaces to indent
 DELAY = 0.08
 while True: # the main program loop
-    # Zig to the right 20 times:
+    # Zig to the right 30 times:
     B = 20
 
     for i in range(B):
