@@ -1,1 +1,1 @@
-# Kofi
+# Snake Game
